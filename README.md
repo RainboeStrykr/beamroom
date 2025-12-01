@@ -85,7 +85,7 @@ When the host leaves, the room closes and connections end.
 
 ## 📸 Screenshots
 
-![preview](app/assets/Beamroom(tutorial).mp4)
+![preview](app/assets/Beamroom(tutorial).gif)
 
 ---
 
